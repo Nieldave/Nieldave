@@ -26,9 +26,7 @@ I’m a Computer Science Engineer who loves building real-world systems, experim
 
 **Languages** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=json&logoColor=white)
 
 **Backend & Frameworks** ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
@@ -41,22 +39,17 @@ I’m a Computer Science Engineer who loves building real-world systems, experim
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 **Data Science & ML** ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 **Databases** ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 **DevOps & Tools** ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-
 </div>
 
 ---
@@ -76,7 +69,7 @@ I’m a Computer Science Engineer who loves building real-world systems, experim
 * **Java Backend:** Spring Boot, Hibernate, JDBC, Servlets
 * **Database:** Advanced SQL, query optimization, and DB design
 * **Architecture:** System design & scalable backend architectures
-* **DSA:** Advanced patterns (two-pointer, sliding window, hashing) on [LeetCode](https://leetcode.com/u/Niel_dave/)
+* **DSA:** Advanced patterns (Sliding window, Monotonic Stack, Backtracking, Dynamic Programming, DFS, BFS) on [LeetCode](https://leetcode.com/u/Niel_dave/)
 
 ---
 
@@ -90,13 +83,22 @@ I’m a Computer Science Engineer who loves building real-world systems, experim
 ---
 
 ### 📈 GitHub Stats
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nieldave&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+</div>
 
 <div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Nieldave&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Niel's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nieldave&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Niel's GitHub Stats" />
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nieldave&theme=tokyo-night&hide_border=true&bg_color=0d1117" alt="Contribution Graph" />
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
-
+### 🏆 GitHub Trophies
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Nieldave&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
 ---
