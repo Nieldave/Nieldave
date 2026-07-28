@@ -2,10 +2,10 @@
 
 # 👋 Hey, I'm Niel Abhishek J David!
 
-### Computer Science Engineer | AI/ML Enthusiast | Backend Developer
+### Computer Science Engineer | AI/ML Enthusiast | Backend Developer | Data Analyst | Analytics Engineer
 
 <p align="center">
-  <i>I turn ideas into working products — from digital wardrobes and ML-driven fashion systems to threat intelligence dashboards.</i>
+  <i>I turn ideas into working products — from digital wardrobes and ML-driven fashion systems to threat intelligence dashboards — and I transform raw historical data into actionable predictive insights and scalable data pipelines.</i>
 </p>
 
 [Portfolio](https://niel-port-folio.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/niel-abhishek-j-david-a81b49230/) • [LeetCode](https://leetcode.com/u/Niel_dave/)
@@ -16,7 +16,7 @@
 
 ### 👨‍💻 About Me
 
-I’m a Computer Science Engineer who loves building real-world systems, experimenting with AI/ML, and designing clean, scalable backends. If something involves algorithms, ML models, cloud infra, or a bit of chaos (debugging at 2 AM), I’m probably into it.
+I'm a Computer Science Engineer who loves building real-world systems, experimenting with AI/ML, designing clean scalable backends, and turning messy data into decisions people can act on. If something involves algorithms, ML models, cloud infra, BI dashboards, or a bit of chaos (debugging at 2 AM), I'm probably into it.
 
 ---
 
@@ -38,18 +38,30 @@ I’m a Computer Science Engineer who loves building real-world systems, experim
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+**Data Analytics & BI** ![Power BI](https://img.shields.io/badge/Power_BI-F2C94C?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
 **Data Science & ML** ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-111111?style=for-the-badge&logo=xgboost&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 
 **Databases** ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-**DevOps & Tools** ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+**DevOps, Cloud & Tools** ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 </div>
 
 ---
@@ -61,6 +73,18 @@ I’m a Computer Science Engineer who loves building real-world systems, experim
 | **👕 Digital Wardrobe System** | Flask, Firebase, ML, SocketIO | A smart wardrobe manager that helps organize outfits digitally. |
 | **👗 Fashion Rec. System** | EfficientNet, Amazon API | Utilizing deep learning to provide personalized fashion recommendations. |
 | **🔐 Threat Intel Dashboard** | FastAPI, TF-IDF, Ensemble ML | Real-time dashboard for monitoring and analyzing cyber threats. |
+| **📊 Dealer Survey Dashboard** | Power BI, DAX, Power Query | Global tracking dashboard for corrective improvement activities across 11+ distribution centre sites, built for both daily operational users and senior leadership. |
+| **🔧 Continuous Improvement Portal** | Power Apps, SharePoint, Power Automate | Role-based CI submission and review platform with identity management, RBAC, and a functional manager dashboard. |
+
+---
+
+### 📈 Core Focus Areas
+
+- 🔍 **Predictive Modeling:** Time-series forecasting (Prophet, ARIMA) and supervised classification/regression.
+- ⚡ **Data Engineering:** Automated ETL pipelines with Python, SQL, and Databricks.
+- 🐳 **MLOps & Deployment:** Containerizing ML pipelines with Docker and hosting on AWS/Azure.
+- 📊 **BI & Reporting:** Interactive dashboards and DAX-driven data models in Power BI and Tableau for operational and executive audiences.
+- 🤖 **Applied ML Systems:** End-to-end products combining deep learning, real-time backends, and cloud infrastructure.
 
 ---
 
@@ -76,6 +100,7 @@ I’m a Computer Science Engineer who loves building real-world systems, experim
 ### 🤝 Open to Collaborate On
 
 * AI/ML research + applied ML projects
+* Data analytics, BI dashboards, and predictive modeling
 * Real-time backend systems (FastAPI, Flask, Node)
 * React + Firebase full-stack products
 * Cloud, DevOps, and automation tools
@@ -104,7 +129,7 @@ I’m a Computer Science Engineer who loves building real-world systems, experim
 ---
 
 ### ⚡ Fun Fact
-> I love building smart systems for everyday life — whether it’s a mirror that judges outfits, a wardrobe that organizes itself, or an ML model that pretends to know fashion better than humans 😄.
+> I love building smart systems for everyday life — whether it's a mirror that judges outfits, a wardrobe that organizes itself, a dashboard that tells leadership the truth before they ask, or an ML model that pretends to know fashion better than humans 😄.
 
 <div align="center">
   
